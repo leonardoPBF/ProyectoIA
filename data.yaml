@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['green', 'red', 'semaforo', 'stop']
+
+roboflow:
+  workspace: signal-stop
+  project: stop-signal
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/signal-stop/stop-signal/dataset/3

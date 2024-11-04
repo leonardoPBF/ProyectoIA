@@ -1,0 +1,20 @@
+# Entorno virtual
+myenv/
+.env
+*.jpg
+*.jpeg
+*.png
+*.txt
+train/images/*
+
+# Archivos de caché y temporales
+__pycache__/
+*.py[cod]
+*.log
+
+yolov5/
+test/
+train/
+valid/
+
+
