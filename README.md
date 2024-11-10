@@ -28,6 +28,8 @@ Recomenado
 - PyTorch>=1.8
 - python>=3.9
 
+Descomprimir stop signal.v3i.yolov5pytorch.zip que es el dataset personalizado
+
 ```bash
 git clone https://github.com/ultralytics/yolov5  # clonar
 cd yolov5
